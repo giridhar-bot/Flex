@@ -1,0 +1,1 @@
+<script src="js/scratch-card.js"></script>
